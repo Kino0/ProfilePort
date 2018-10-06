@@ -1,0 +1,73 @@
+/* DOCTYPE css */
+html, body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('../img/apple-black-and-white-computer-250459.jpg');
+    background-position: 0% 9%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    height: 45px;
+    background: rgba(4, 0, 0, 0.6);
+}
+
+.navbar a {
+    color: #d0cdd3 !important;
+    font-size: 1.6em;
+    font-family: 'Dancing Script', cursive; 
+}
+
+.container {
+    margin-top: 30px;
+    
+}
+
+.about {
+    margin-left: 15px;
+}
+
+.imgid {
+    border-radius: 100%;
+    margin-bottom: 80px;
+    margin-top: 20px;
+    width: 255px
+}
+
+.block1 {
+    background-color: transparent;
+    color: #d0cdd3;
+    
+}
+
+.card-body {
+    background: rgba(4, 0, 0, 0.6);
+    border-radius: 5px;
+}
+
+.fas {
+    margin-right: 10px;
+}
+
+/* Primeira coluna */
+
+.profi {
+    background: rgba(4, 0, 0, 0.6);
+}
+
+.profi h2 {
+    margin: 20px;
+    font-family: 'El Messiri', sans-serif;
+    text-align: justify;
+    color: white;
+}
+
+.profi p {
+    margin: 20px;
+    font-family: 'El Messiri', sans-serif;
+    text-align: justify;
+    color: white;
+}
+
+
